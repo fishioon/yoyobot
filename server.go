@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"git.code.oa.com/ifishjin/yoyobot/wxbiz"
+	"github.com/fishioon/yoyobot/wxbiz"
 	"github.com/go-redis/redis"
 )
 

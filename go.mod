@@ -1,4 +1,4 @@
-module git.code.oa.com/ifishjin/yoyobot
+module github.com/fishioon/yoyobot
 
 go 1.13
 
